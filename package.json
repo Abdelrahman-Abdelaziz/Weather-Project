@@ -1,0 +1,14 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "Creating weather website using APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdelrahman Mohammed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
